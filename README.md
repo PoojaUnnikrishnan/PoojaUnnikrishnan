@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/pooja-unnikrishnan-28389719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pooja-unnikrishnan-28389719a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/poojaunnikrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="poojaunnikrishnan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/PoojaUnnikrishnan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooja unnikrishnan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poojaunnikrishn3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pooja unnikrishnan" height="30" width="40" /></a>
 </p>
 
