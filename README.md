@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **product engineering(front-end)**
-- 💬 Ask me about React and Vanilla javascript.
+- 💬 Ask me about Svelte-kit, React and Vanilla javascript.
 - 📫 How to reach me **poojaunnikrishnan7558@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
